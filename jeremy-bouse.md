@@ -2,3 +2,4 @@
 - **Location:** Atlanta, GA
 - **Favorite Food:** Pizza
 - **Hobby:** Ingress
+- **Favorite Color:** Blue
